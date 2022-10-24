@@ -1,6 +1,6 @@
 # macOS in Docker
 
-##### Built on the great work from [foxlet]
+##### Built on the great work from [foxhole]
 
 _Runs a macOS image on QEMU in a docker container, with VNC, SSH and SPICE access on alpine linux_
 
